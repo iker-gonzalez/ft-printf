@@ -27,7 +27,7 @@
 
 ## 🗣️ About
 
-	🚀 TLDR: this project consists of coding a library that contains a simplified version of the printf function.
+> This project consists of coding a library that contains a simplified version of the printf function.
   
 For detailed information, refer to the [**subject of this project**](https://github.com/iker-gonzalez/42_cursus/blob/main/_PDFs/en.subject_ft_printf.pdf)
 
